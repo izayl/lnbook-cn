@@ -1,6 +1,4 @@
-[role="pagenumrestart"]
-[[intro_what_is_the_lightning_network]]
-== Introduction
+# Introduction
 
 Welcome to _Mastering the Lightning Network_!
 
